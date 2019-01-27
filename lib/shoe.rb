@@ -3,6 +3,7 @@ class Shoe
   def intialize(brand)
     @brand=brand
   end
-  attr_reader
+  attr_reader :brand, :condition
+  attr_accessor 
   
 end
