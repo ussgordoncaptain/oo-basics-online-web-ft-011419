@@ -1,5 +1,5 @@
 # Make your shoe class here!
 class Shoe
-  def intializ
+  def intialize 
   
 end
